@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "minecraft:tnt"
+    }
+  ],
+  "results": [
+    {
+      "item": "pointblank:grenade",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "none"
+}

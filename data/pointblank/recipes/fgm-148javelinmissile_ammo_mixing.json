@@ -1,0 +1,146 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:processor"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:tnt"
+    }
+  ],
+  "results": [
+    {
+      "item": "pointblank:javelin_rocket"
+    }
+  ],
+  "heatRequirement": "none"
+}
