@@ -1,18 +1,21 @@
 {
-  "type": "minecraft:crafting",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
       "item": "minecraft:lever"
     },
-    {
+    "Y": {
       "item": "minecraft:tnt"
     }
+  },
+  "pattern": [
+    "X  ",
+    "Y  "
   ],
-  "results": [
-    {
-      "item": "pointblank:grenade",
-      "count": 1
-    }
-  ],
-  "heatRequirement": "none"
+  "result": {
+    "item": "pointblank:grenade",
+    "count": 1
+  },
+  "show_notification": true
 }
