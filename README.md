@@ -4,4 +4,4 @@
 ##### Adds crafting recipe for Frag Grenade.
 
 ###### Planned: recipes for Vic's Point Blank Half-Life Pack.
-##### Compatibility: JEI✅ REI❌ EMI❔
+##### Compatibility: JEI✅ REI❌ EMI❌
