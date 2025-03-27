@@ -6,7 +6,9 @@
 ##### Compatibility: <a href="https://www.curseforge.com/minecraft/mc-mods/jei">JEI</a>✅ REI❌ EMI❌
 ##### Requires: <a href="https://www.curseforge.com/minecraft/mc-mods/create">Create</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/vics-point-blank">Vic's Point Blank</a>, (Optional)<a href="https://www.curseforge.com/minecraft/customization/point-blank-official-extension-doom-pack">Vic's Point Blank Doom Pack</a>.
 ##### Built for Forge, Fabric, Quilt, and NeoForge (only tested on Forge).
+<!---
 #
 ###### Planned: recipes for <a href="https://www.curseforge.com/minecraft/customization/point-blank-official-extension-half-life-pack">Vic's Point Blank Half-Life Pack</a>.
+--->
 #
 ##### Curseforge: <a href="https://www.curseforge.com/minecraft/mc-mods/vpb-automation">[mod]</a> <a href="https://www.curseforge.com/minecraft/data-packs/vpb-automation">[datapack]</a>
