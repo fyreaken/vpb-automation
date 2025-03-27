@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pointblank:doom_argent_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "pointblank:doom_steelflechette",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "none"
+}

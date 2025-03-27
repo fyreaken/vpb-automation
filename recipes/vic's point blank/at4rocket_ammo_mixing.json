@@ -1,0 +1,44 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "minecraft:tnt"
+    }
+  ],
+  "results": [
+    {
+      "item": "pointblank:at4_rocket"
+    }
+  ],
+  "heatRequirement": "none"
+}

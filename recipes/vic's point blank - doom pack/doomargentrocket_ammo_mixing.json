@@ -1,0 +1,48 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "item": "pointblank:doom_argent_compound"
+    },
+    {
+      "item": "minecraft:tnt"
+    }
+  ],
+  "results": [
+    {
+      "item": "pointblank:doom_argentrocket",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "none"
+}
