@@ -8,3 +8,5 @@
 ##### Built for Forge, Fabric, Quilt, and NeoForge (only tested on Forge).
 #
 ###### Planned: recipes for <a href="https://www.curseforge.com/minecraft/customization/point-blank-official-extension-half-life-pack">Vic's Point Blank Half-Life Pack</a>.
+#
+##### Curseforge: <a href="https://www.curseforge.com/minecraft/mc-mods/vpb-automation">[mod]</a> <a href="https://www.curseforge.com/minecraft/data-packs/vpb-automation">[datapack]</a>
