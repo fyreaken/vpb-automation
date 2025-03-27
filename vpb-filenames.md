@@ -1,9 +1,13 @@
-file naming scheme
+VBP Automation - file naming scheme
 #
-vbp-automation
+• "vbp-automation".jar/.zip
 
-recipes for base Vic's Point Blank
+Requires Vic's Point Blank.
+
+Has recipes for base Vic's Point Blank.
 #
-vbp-automation-d
+• "vbp-automation-d".jar/.zip
 
-recipes for Vic's Point Blank Doom Pack
+Requires Vic's Point Blank Doom Pack.
+
+Has recipes for Vic's Point Blank Doom Pack.
